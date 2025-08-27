@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+Spatium360RenderBase/Content/Fab/** filter=lfs diff=lfs merge=lfs -text
+Spatium360RenderBase/Content/Static/** filter=lfs diff=lfs merge=lfs -text
+Spatium360RenderBase/Content/Megascans/** filter=lfs diff=lfs merge=lfs -text
+Spatium360RenderBase/Content/Movies/** filter=lfs diff=lfs merge=lfs -text
+Spatium360RenderBase/Content/UltraDynamicSky/** filter=lfs diff=lfs merge=lfs -text
+Spatium360RenderBase/Content/PN_MeadowFlowers/** filter=lfs diff=lfs merge=lfs -text
+Spatium360RenderBase/Content/EuropeanHornbeam/** filter=lfs diff=lfs merge=lfs -text

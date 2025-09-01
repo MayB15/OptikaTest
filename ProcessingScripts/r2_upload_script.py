@@ -415,5 +415,5 @@ def delete_tour_utility():
     delete_tour(tour_id)
 
 if __name__ == "__main__":
-    delete_tour_utility()
+    upload_images()
 

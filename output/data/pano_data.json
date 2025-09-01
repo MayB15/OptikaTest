@@ -1,0 +1,217 @@
+[
+    {
+        "panorama_id": 0,
+        "default_rotation": 20.362703323364258,
+        "image_data": {
+            "day": {
+                "furnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint_DF/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint_DF/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint_DF/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint_DF/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint_DF/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint_DF/nz.webp"
+                },
+                "unfurnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint_DU/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint_DU/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint_DU/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint_DU/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint_DU/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint_DU/nz.webp"
+                }
+            },
+            "night": {
+                "furnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint_NF/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint_NF/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint_NF/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint_NF/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint_NF/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint_NF/nz.webp"
+                },
+                "unfurnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint_NU/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint_NU/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint_NU/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint_NU/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint_NU/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint_NU/nz.webp"
+                }
+            }
+        },
+        "room_id": 0
+    },
+    {
+        "panorama_id": 1,
+        "default_rotation": 117.02212524414062,
+        "image_data": {
+            "day": {
+                "furnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DF/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DF/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DF/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DF/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DF/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DF/nz.webp"
+                },
+                "unfurnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DU/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DU/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DU/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DU/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DU/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint2_DU/nz.webp"
+                }
+            },
+            "night": {
+                "furnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NF/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NF/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NF/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NF/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NF/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NF/nz.webp"
+                },
+                "unfurnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NU/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NU/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NU/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NU/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NU/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint2_NU/nz.webp"
+                }
+            }
+        },
+        "room_id": -1
+    },
+    {
+        "panorama_id": 2,
+        "default_rotation": 215.81753540039062,
+        "image_data": {
+            "day": {
+                "furnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DF/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DF/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DF/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DF/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DF/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DF/nz.webp"
+                },
+                "unfurnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DU/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DU/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DU/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DU/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DU/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint3_DU/nz.webp"
+                }
+            },
+            "night": {
+                "furnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NF/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NF/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NF/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NF/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NF/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NF/nz.webp"
+                },
+                "unfurnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NU/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NU/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NU/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NU/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NU/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint3_NU/nz.webp"
+                }
+            }
+        },
+        "room_id": -1
+    },
+    {
+        "panorama_id": 3,
+        "default_rotation": 335.06768798828125,
+        "image_data": {
+            "day": {
+                "furnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DF/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DF/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DF/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DF/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DF/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DF/nz.webp"
+                },
+                "unfurnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DU/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DU/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DU/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DU/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DU/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint4_DU/nz.webp"
+                }
+            },
+            "night": {
+                "furnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NF/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NF/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NF/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NF/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NF/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NF/nz.webp"
+                },
+                "unfurnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NU/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NU/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NU/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NU/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NU/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint4_NU/nz.webp"
+                }
+            }
+        },
+        "room_id": -1
+    },
+    {
+        "panorama_id": 4,
+        "default_rotation": 89.46117401123047,
+        "image_data": {
+            "day": {
+                "furnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DF/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DF/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DF/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DF/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DF/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DF/nz.webp"
+                },
+                "unfurnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DU/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DU/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DU/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DU/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DU/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint5_DU/nz.webp"
+                }
+            },
+            "night": {
+                "furnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NF/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NF/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NF/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NF/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NF/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NF/nz.webp"
+                },
+                "unfurnished": {
+                    "px": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NU/px.webp",
+                    "py": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NU/py.webp",
+                    "pz": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NU/pz.webp",
+                    "nx": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NU/nx.webp",
+                    "ny": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NU/ny.webp",
+                    "nz": "processed_images/OBERIO_DHABA_BP_PanoPoint5_NU/nz.webp"
+                }
+            }
+        },
+        "room_id": -1
+    }
+]

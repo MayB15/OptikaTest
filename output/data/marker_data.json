@@ -1,0 +1,102 @@
+[
+    {
+        "marker_id": 0,
+        "start_panorama_id": 0,
+        "position": {
+            "x": -295.1279631212455,
+            "y": -160.0010538960044,
+            "z": 4.523306343471575
+        },
+        "target_panorama_id": 4
+    },
+    {
+        "marker_id": 1,
+        "start_panorama_id": 1,
+        "position": {
+            "x": 269.7388866288338,
+            "y": -160.0814357322453,
+            "z": 44.49403489017939
+        },
+        "target_panorama_id": 4
+    },
+    {
+        "marker_id": 2,
+        "start_panorama_id": 1,
+        "position": {
+            "x": -35.6256241706767,
+            "y": -160.08042075804784,
+            "z": -385.3602867726471
+        },
+        "target_panorama_id": 2
+    },
+    {
+        "marker_id": 3,
+        "start_panorama_id": 2,
+        "position": {
+            "x": 35.6256241706767,
+            "y": -159.91957924195216,
+            "z": 385.3602867726471
+        },
+        "target_panorama_id": 1
+    },
+    {
+        "marker_id": 4,
+        "start_panorama_id": 2,
+        "position": {
+            "x": 313.23529334625624,
+            "y": -159.98837159257744,
+            "z": 1.549649105972719
+        },
+        "target_panorama_id": 3
+    },
+    {
+        "marker_id": 5,
+        "start_panorama_id": 3,
+        "position": {
+            "x": -7.870782546745705,
+            "y": -160.01264338162002,
+            "z": 428.30467255685375
+        },
+        "target_panorama_id": 4
+    },
+    {
+        "marker_id": 6,
+        "start_panorama_id": 3,
+        "position": {
+            "x": -313.23529334625624,
+            "y": -160.01162840742256,
+            "z": -1.549649105972719
+        },
+        "target_panorama_id": 2
+    },
+    {
+        "marker_id": 7,
+        "start_panorama_id": 4,
+        "position": {
+            "x": 295.1279631212455,
+            "y": -159.9989461039956,
+            "z": -4.523306343471575
+        },
+        "target_panorama_id": 0
+    },
+    {
+        "marker_id": 8,
+        "start_panorama_id": 4,
+        "position": {
+            "x": 7.870782546745705,
+            "y": -159.98735661837998,
+            "z": -428.30467255685375
+        },
+        "target_panorama_id": 3
+    },
+    {
+        "marker_id": 9,
+        "start_panorama_id": 4,
+        "position": {
+            "x": -269.7388866288338,
+            "y": -159.9185642677547,
+            "z": -44.49403489017939
+        },
+        "target_panorama_id": 1
+    }
+]

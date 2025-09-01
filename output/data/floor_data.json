@@ -1,0 +1,9 @@
+[
+    {
+        "floor_id": 0,
+        "floor_name": "Ground Floor",
+        "floor_map": "/fallback/map_not_found.jpeg",
+        "main_room_id": 0,
+        "label": ""
+    }
+]

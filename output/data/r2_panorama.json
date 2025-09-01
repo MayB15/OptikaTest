@@ -1,0 +1,217 @@
+[
+  {
+    "panorama_id": 0,
+    "default_rotation": 20.362703323364258,
+    "image_data": {
+      "day": {
+        "furnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/a9437b75323fb7bd",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/d9674688b0582dfc",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/612b51201a9c3c2e",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/223e24b99635155d",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/fcab66731f2bca5c",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/317671a307043980"
+        },
+        "unfurnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/57300e17c07b172d",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/ade30c9c72fc6026",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/3b787904f43a893d",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/275cc07fab734a50",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/0075f4fe5831ae5b",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/81d3d0c133d25e86"
+        }
+      },
+      "night": {
+        "furnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/a35e925707ab6fb9",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/65dbb4ec72d91f31",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/f95b59982d3db73c",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/5f9865105e92cb23",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/d308c5b164a1c511",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/d619c4f2e210fc90"
+        },
+        "unfurnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/d2860b21fa07836e",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/7b9721588b03b421",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/0f6d6d4489228ca2",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/12ad82f3761e72f5",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/8af685a3a2ebcc92",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/372e37b111877948"
+        }
+      }
+    },
+    "room_id": 0
+  },
+  {
+    "panorama_id": 1,
+    "default_rotation": 117.02212524414062,
+    "image_data": {
+      "day": {
+        "furnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/b5f84c5ac1b74a2a",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/339f3feb983bb14c",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/6d6e3af4e6b9e4d7",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/4f9f0234509a1e4b",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/b9567ff1ab8dcfee",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/f05d79e3215eec01"
+        },
+        "unfurnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/67946d3c073bb34d",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/d65bf1b6c1a061b8",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/678857dedd768517",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/c89a507edaca0318",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/1fbcd6ea5291888e",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/4bb9d2ee126dc6fd"
+        }
+      },
+      "night": {
+        "furnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/29ce5cb8135895ee",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/c5ca3867c30534f7",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/66e2aa8ae235b485",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/de8d568b36e442fa",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/c865bcdedff9a775",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/055f65e5d7e25650"
+        },
+        "unfurnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/76f4cdc5e8cb896c",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/fe0666f5ddb8126f",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/eab12b43dfd4e97e",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/c155fe0f2fd58509",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/3b6377b73286bd69",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/99871914fc0bbca9"
+        }
+      }
+    },
+    "room_id": -1
+  },
+  {
+    "panorama_id": 2,
+    "default_rotation": 215.81753540039062,
+    "image_data": {
+      "day": {
+        "furnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/63bd5b39a4983ad4",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/8212cfcb4a4cdc2a",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/0fe28d9de9ce3720",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/447f86fab364ac1e",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/48b682052e1067f0",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/b542235cf1b3faf8"
+        },
+        "unfurnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/df0ff6ddcb3db1af",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/27b1227c9662b78d",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/c4a297746dc1b94f",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/bf8a44080ca25c71",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/5e6903db079e6c2e",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/7533807e54eea171"
+        }
+      },
+      "night": {
+        "furnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/62f745a49cdd9123",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/55add3d75faa0e8a",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/4d334491b1979f9e",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/2040c16b061fc856",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/7f881b4cc83d58bd",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/55a451060de1d473"
+        },
+        "unfurnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/ceb9b16b62eaad56",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/e5ad4e1b3b4dec01",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/de4f68b70cf8b30e",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/891ff9392d45870a",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/36180160823615e1",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/beb7d94b3e0f62cc"
+        }
+      }
+    },
+    "room_id": -1
+  },
+  {
+    "panorama_id": 3,
+    "default_rotation": 335.06768798828125,
+    "image_data": {
+      "day": {
+        "furnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/883f7021d8eb82b0",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/7283b50a75e01e3b",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/d4ecb9cd03c48ab7",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/9dbd57cb90adbcf8",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/8a224ccecd1d19ea",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/465b76ad83c39ae7"
+        },
+        "unfurnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/75e20d799b306e55",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/f870d5e5f4da7d30",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/a65c8a297b6ff7f9",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/f02091f690930994",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/869cbe5237332334",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/7e5dd27abd6b6f0c"
+        }
+      },
+      "night": {
+        "furnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/3a1f72d8f98cdbe6",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/2243de2fd6b73378",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/bf2e5ee08d056882",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/ed9d130c65db8dec",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/4fa3a30a3d1a0bb1",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/0b7cb3f997e75da8"
+        },
+        "unfurnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/e04efd552f67a9e9",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/45ae122d1f83023c",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/83b87ba1e10a89d9",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/0af56e607d670fe3",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/bf375642b2ad2b29",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/ed19232b3df1b326"
+        }
+      }
+    },
+    "room_id": -1
+  },
+  {
+    "panorama_id": 4,
+    "default_rotation": 89.46117401123047,
+    "image_data": {
+      "day": {
+        "furnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/c46fbf8ccad97f28",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/d78ffcb09680543b",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/68ed8181f7032cd0",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/046089a75dc05ea3",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/f303c6ac9c7c73e6",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/525e4970eaf45d54"
+        },
+        "unfurnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/976166d755e78a82",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/af23747dabda7aeb",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/8948e79bbfd890d4",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/d4c1c1895f01d4d5",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/0e0dde6bdcdec8d9",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/081af85349da5a60"
+        }
+      },
+      "night": {
+        "furnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/b9a008c7aff74bda",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/72476a311f17dda7",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/efe67eef833d15d6",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/11ff222ada77e7d4",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/b654f09825611176",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/153fd655d0363783"
+        },
+        "unfurnished": {
+          "px": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/100e924c2c9db292",
+          "py": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/dcf1b09324de813e",
+          "pz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/18d12294c80a524c",
+          "nx": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/fb07d18bab4e546a",
+          "ny": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/39684c6da1d8089a",
+          "nz": "https://cdn.spatium360.in/tour/87e6946d-cb28-41b2-a771-7da71e49d841/cubemap/c7bc10d155266f37"
+        }
+      }
+    },
+    "room_id": -1
+  }
+]
